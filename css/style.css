@@ -50,11 +50,14 @@ footer{
 
 h3{
 
-   color: rgb(255, 255, 255); text-align: center;
+   color: rgb(255, 0, 0); text-align: left;
 }
 p{
    color: white;
 }
 figcaption{
    color: red;
+}
+li{
+   color: rgb(255, 255, 255);
 }

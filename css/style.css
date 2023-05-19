@@ -1,6 +1,11 @@
+html{
+   scroll-behavior: smooth;
+}
+
+
 body{
     background-color: rgb(255, 255, 255);
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
  }
 
  h1{
@@ -64,13 +69,26 @@ p{
 }
 figcaption{
    color: red;
+   padding-left: 1%;
 }
 li{
    padding-top: 1%;
    padding-left: 1%;
    color: rgb(255, 255, 255);
-   transition: 0.1s;
+   transition: 0.5s;
 }
 li:hover{
    transform: scale(105%);
 }
+.Logo{
+   transition: 0.5s;
+}
+.Logo:hover{
+   transform: scale(105%);
+}
+
+.imgtest{
+   float: left;
+}
+
+

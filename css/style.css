@@ -4,7 +4,7 @@ html{
 
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(50, 40, 40);
     font-family: 'Josefin Sans', sans-serif;
  }
 
@@ -52,7 +52,7 @@ body{
  }
 
 footer{
-    background-color: rgb(44, 39, 39);
+    background-color: rgb(46, 46, 46);
     width: 100%;
     color: red;
 }
@@ -88,7 +88,28 @@ li:hover{
 }
 
 .imgtest{
-   float: left;
+padding-right: 1%;
+padding-top: 1%;
+float: left;
+ WIDTH: 20%
 }
 
+.imgband{
+   float: right;
+   padding-left: 1%;
+   padding-right: 1%;
+   padding-top: 1%;
+   width: 30%;
+}
 
+a.link {
+   color: rgb(255, 255, 255);
+}
+
+a.link:visited {
+   color: rgb(255, 0, 0);
+}
+
+a.link:hover {
+   color: rgb(255, 0, 0);
+}

@@ -12,12 +12,15 @@ body{
  padding-top: 1%;
  color: rgb(255, 0, 0);
  text-align: center;
+ font-size: 200%;
  }
 
  h2{
    padding-top: 1%;
    padding-left: 1%;
-     color: rgb(255, 255, 255); text-align: center;
+   color: rgb(255, 0, 0); text-align: center;
+   font-size: 150%;
+   text-align: left;
  }
  header{
     width: 100%;
@@ -68,6 +71,7 @@ p{
    padding-top: 1%;
    padding-left: 1%;
    color: white;
+   font-size: 100%
 }
 figcaption{
    color: red;
@@ -140,4 +144,30 @@ a.link:hover {
    .col-6{
       width: 100%;
    }
+}
+
+.imgliber{
+   padding-right: 1%;
+padding-top: 1%;
+float: left;
+ WIDTH: 35%
+}
+
+.imgmerco{
+   padding-right: 1%;
+   padding-top: 1%;
+   float: right;
+    WIDTH: 35%  
+}
+
+table,th,td{
+   border: 1px solid white;
+   border-collapse: collapse ;
+   color: white;
+   
+}
+
+table{
+   padding-top: 5%;
+   width: 100%;
 }

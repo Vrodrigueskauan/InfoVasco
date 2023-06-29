@@ -2,6 +2,13 @@ html{
    scroll-behavior: smooth;
 }
 
+@font-face {
+   font-family: 'Long Shot';
+   src: url('../fontes/Long_Shot.ttf') 
+
+ 
+}
+
 
 body{
     background-color: rgb(50, 40, 40);
@@ -13,6 +20,7 @@ body{
  color: rgb(255, 0, 0);
  text-align: center;
  font-size: 200%;
+ font-family: 'Long Shot'
  }
 
  h2{
@@ -21,7 +29,9 @@ body{
    color: rgb(255, 0, 0); text-align: center;
    font-size: 150%;
    text-align: left;
+   font-family: 'Long Shot'
  }
+ 
  header{
     width: 100%;
     background-color: black;
@@ -66,6 +76,8 @@ h3{
    padding-top: 1%;
    padding-left: 1%;
    color: rgb(255, 0, 0); text-align: left;
+   font-family: 'Long Shot'
+ 
 }
 p{
    padding-top: 1%;
@@ -179,4 +191,11 @@ table{
     WIDTH: 35%  
 }
 
+.imgrom{
+   padding-right: 1%;
+   padding-top: 1%;
+   float: right;
+    WIDTH: 28%  
+    
+}
 

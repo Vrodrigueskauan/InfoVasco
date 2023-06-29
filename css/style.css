@@ -13,6 +13,7 @@ body{
  color: rgb(255, 0, 0);
  text-align: center;
  font-size: 200%;
+ font-family:  ;
  }
 
  h2{
@@ -171,3 +172,12 @@ table{
    padding-top: 5%;
    width: 100%;
 }
+
+.imghave{
+   padding-right: 1%;
+   padding-top: 1%;
+   float: left;
+    WIDTH: 35%  
+}
+
+

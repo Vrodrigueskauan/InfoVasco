@@ -199,3 +199,29 @@ table{
     
 }
 
+.imgmed{
+   padding-left: 1%;
+   padding-right: 1%;
+   padding-top: 1%;
+   float: left;
+    WIDTH: 0,00001%  
+}
+
+.imgluisaranha{
+   padding-left: 1%;
+   padding-right: 1%;
+   padding-top: 1%;
+   float: right;
+   width: 35%;   
+}
+
+.tituloesq{
+   padding-top: 1%;
+   padding-left: 1%;
+   color: rgb(255, 0, 0); text-align: center;
+   font-size: 500%;
+   text-align: left;
+   font-family: 'Long Shot'
+
+}
+
